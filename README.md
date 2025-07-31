@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Bozhena2311
-- 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning Kotlin
+- 👀 I’m interested in QA
 - 💞️ I’m looking to collaborate on IT-companies
 - 📫 How to reach me bozhena.balzhanova@gmail.com
 
